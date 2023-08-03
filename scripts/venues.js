@@ -17,9 +17,11 @@ export const VenueList = () => {
   return html;
 };
 
+
+
 document.addEventListener(
-    "click",
-    (click) => {
-        const clicked = click.target
-    }
+  "click",
+  (click) => {
+      const clicked = click.target
+  }
 )
